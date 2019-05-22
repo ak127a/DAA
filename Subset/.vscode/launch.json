@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Subset",
+            "request": "launch",
+            "mainClass": "Subset",
+            "projectName": "Subset_7cbe31a1"
+        }
+    ]
+}
